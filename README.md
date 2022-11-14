@@ -19,6 +19,6 @@ Analysis of training, rfm-segmentation of students
 
 Анализ проведен на Python, выводы в файле E-learning project.ipynb.
 
-## Итоговая карта сегментов студентов:
+## Итоговая карта сегментов студентов (RFM-сегментация):
 
 ![Screenshot_28](https://user-images.githubusercontent.com/104904113/201666499-5078970f-405a-4e01-9ce2-62d4afe45c99.jpg)
